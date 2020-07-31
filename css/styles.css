@@ -1,0 +1,38 @@
+header {
+  display: inline;
+}
+
+h1 {
+  float: left;
+  line-height: 50px;
+  text-align: center;
+  margin: 0px 10px auto;
+}
+
+h1 img {
+  vertical-align: middle;
+  margin-right: 5px;
+}
+
+nav {
+  margin: 10px;
+}
+
+ ul {
+  list-style: none;
+  overflow: hidden;
+}
+
+li {
+  width: 140px;
+  text-align: center;
+  background-color: darkgray;
+  float: right;
+  margin-right: 2px;
+  line-height: 50px;
+  border-radius: 5px;
+}
+
+
+
+
